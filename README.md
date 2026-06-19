@@ -14,6 +14,8 @@ claude-opus-4-8     142   3,201   48,920   1,204,533   88,210   1,295,944   $1.4
 ...
   cost — total       : $1.42
 ```
+<img width="846" height="286" alt="Screenshot 2026-06-18 at 9 52 43 PM" src="https://github.com/user-attachments/assets/06ea5d8c-8f2e-423d-93d7-2c5bdeb81d2e" />
+
 
 ## Requirements
 
